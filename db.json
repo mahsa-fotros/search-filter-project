@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Asus laptop",
+      "class": "laptop",
+      "price": 20,
+      "image": "./assets/images/pic1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Apple phone",
+      "class": "phone",
+      "price": 10,
+      "image": "./assets/images/pic2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Samsung tablet",
+      "class": "tablet",
+      "price": 15,
+      "image": "./assets/images/pic3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Acer laptop",
+      "class": "laptop",
+      "price": 22,
+      "image": "./assets/images/pic4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Apple watch",
+      "class": "watch",
+      "price": 17,
+      "image": "./assets/images/pic5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Apple phone",
+      "class": "phone",
+      "price": 21,
+      "image": "./assets/images/pic6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Apple watch",
+      "class": "watch",
+      "price": 15,
+      "image": "./assets/images/pic7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Apple phone",
+      "class": "phone",
+      "price": 20,
+      "image": "./assets/images/pic8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Asus tablet",
+      "class": "tablet",
+      "price": 18,
+      "image":"./assets/images/pic9.jpg"
+    }
+  ]
+}

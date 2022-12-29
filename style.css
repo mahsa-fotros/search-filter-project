@@ -75,7 +75,7 @@ header h1{
     width: 90vw;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(260px,1fr));
+    grid-template-columns: repeat(auto-fill,minmax(260px,1fr));
     grid-gap: 7rem 3rem;
 }
 .product{
@@ -92,7 +92,7 @@ header h1{
 .image-container{
     width: 240px;
     height: 240px;
-    margin: 0 auto;
+    margin: 2rem auto;
 }
 .product-img{
     width: 100%;
