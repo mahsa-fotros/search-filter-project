@@ -29,8 +29,9 @@ header{
     padding: 2rem 0;
 }
 header h1{
-    font-size: 3.5rem;
+    font-size: 3rem;
     color: var(--mainColor);
+    text-transform: capitalize;
 }
 #search{
     width: 300px;
@@ -44,7 +45,7 @@ header h1{
     border: 2px solid var(--mainColor);
 }
 .filter-products{
-    width: 40%;
+    width: 45%;
     display: flex;
     justify-content: space-around;
 }
@@ -105,4 +106,17 @@ header h1{
     align-items: center;
     border-top: 1px solid #ddd;
     padding: 2rem 0;
+}
+
+@media screen and (max-width:769px) {
+    header h1{
+        font-size: 2rem;
+    }
+    .filter-products{
+        width: 90%;
+    }
+    .btn{
+        width: 5rem;
+        font-size: 1.2rem;
+    }
 }
